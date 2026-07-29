@@ -1,19 +1,19 @@
 export default {
   // ─── BOT INFO ───────────────────────────────────────────
-  botName:  "Yuta Okotsu",
+  botName:  "Cyber Bot",
   prefix:   ".",
 
   // ─── GLOBALS ────────────────────────────────────────────
-  botname:  "⚔️ Yuta Okotsu MD",
-  wm:       "⚔️ Yuta Okotsu MD•DuarteXV",
+  botname:  "🤖 Cyber Bot MD",
+  wm:       "🤖 Cyber Bot MD•DuarteXV",
   author:   "© DuarteXV",
-  dev:      "© 🄿🄾🅆🄴🅁🄴🄳 DuarteXV",
-  packname: "⚔️ 𝒀𝒖𝒕𝒂 𝑶𝒌𝒐𝒕𝒔𝒖 𝑴𝑫 ⚔️",
-  etiqueta: "⚔️ DuarteXV ⚔️",
-  textbot:  "⚔️ Yuta Okotsu, el hechicero de grado especial. Su amor se convierte en la maldición más poderosa. ⚔️",
+  dev:      "©Whois.yallico",
+  packname: "🤖 𝘾𝙮𝙗𝙚𝙧 𝘽𝙤𝙩 𝙈𝘿 🤖",
+  etiqueta: "🤖 Whois 🤖",
+  textbot:  "🤖 Cyber Bot, inteligencia artificial de última generación. Conectando el futuro con el presente. 🤖",
 
   // ─── OWNER ──────────────────────────────────────────────
-  ownerNumber: ["573135180876", "50588112827", "573133374132", "9779829141452", "18096758983"],
+  ownerNumber: ["51927174369", "56945825082"],
   coOwners: [],
 
   // ─── SESIONES ───────────────────────────────────────────
