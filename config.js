@@ -5,9 +5,9 @@ export default {
 
   // ─── GLOBALS ────────────────────────────────────────────
   botname:  "🤖 Cyber Bot MD",
-  wm:       "🤖 Cyber Bot MD•DuarteXV",
-  author:   "© DuarteXV",
-  dev:      "©Whois.yallico",
+  wm:       "🤖 Cyber Bot MD•Whois",
+  author:   "© Whois Yallico",
+  dev:      "© Whois.yallico",
   packname: "🤖 𝘾𝙮𝙗𝙚𝙧 𝘽𝙤𝙩 𝙈𝘿 🤖",
   etiqueta: "🤖 Whois 🤖",
   textbot:  "🤖 Cyber Bot, inteligencia artificial de última generación. Conectando el futuro con el presente. 🤖",
